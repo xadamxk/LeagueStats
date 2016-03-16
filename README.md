@@ -48,11 +48,11 @@ Get live summoner stats for League of Legends games
 #League API 
 ###Request Calls
 <ul>
-<li><b>Summoner-V1.4</b></li>
-<li><b>CurrentGame-V1.0</b></li>
-<li><b>League-V2.5</b></li>
-<li><b>Stats-V1.3</b></li>
-<li><b>ChampionMastery</b></li>
+<li>Summoner-V1.4</li>
+<li>CurrentGame-V1.0</li>
+<li>League-V2.5</li>
+<li>Stats-V1.3</li>
+<li>ChampionMastery</li>
 </ul>
 ###Condition Statement
 <i>"LeagueStats"  isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.</i>
