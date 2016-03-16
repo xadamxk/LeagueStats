@@ -4,6 +4,7 @@ Get live summoner stats for League of Legends games.
 
 <hr><p align="Center">
 <b>Note: This program is <i>almost</i> complete - figuring out how to handle additional API requests & a few bugs.</b>
+<br>
 <b>Direct Download Installer will be added once program is complete</b></p>
 <hr>
 
