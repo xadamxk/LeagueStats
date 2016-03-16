@@ -1,6 +1,8 @@
 # LeagueStats
 ### Description
-Get live summoner stats for League of Legends games
+Get live summoner stats for League of Legends games.
+
+Note: This program is <i>almost</i> complete - figuring out how to handle additional API requests & a few bugs.
 
 
 <p align="center">
