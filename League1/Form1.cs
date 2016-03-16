@@ -25,7 +25,7 @@ namespace League1
     public partial class Form1 : Form
     {
         // temp
-        public static string apiKey = "97e5946d-2d85-4071-98a7-ebc98c9495b1";
+        public static string apiKey = "";
 
         // Variables
         public static string summonerName;
@@ -121,7 +121,7 @@ namespace League1
             groupBoxEnemyPlayer5.Hide();
 
             //temp
-            textBoxSummonerName.Text = "xadamxk";
+            textBoxSummonerName.Text = "YourSummonerName";
             textBoxAPIKey.Text = apiKey;
             
         }
