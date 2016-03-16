@@ -6,7 +6,13 @@ Note: This program is <i>almost</i> complete - figuring out how to handle additi
 
 
 <p align="center">
+5v5 - Normal - Summoners Rift
+<br>
   <a href="http://i.imgur.com/OpbuyKA.png"><img src="http://i.imgur.com/OpbuyKA.png" title="source: imgur.com" height="390px" width="410px"/></a>
+  <br>
+  3v3 - Normal - Twisted Treeline
+  <br>
+  <a href="http://i.imgur.com/eg3BVkQ.png"><img src="http://i.imgur.com/eg3BVkQ.png" title="source: imgur.com" height="275px" width="410px"/></a>
 </p>
 
 ###Features
