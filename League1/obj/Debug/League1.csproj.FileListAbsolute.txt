@@ -1,0 +1,15 @@
+c:\users\adam\documents\visual studio 2013\Projects\League1\League1\bin\Debug\League1.exe.config
+C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\obj\Debug\League1.csprojResolveAssemblyReference.cache
+C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\obj\Debug\League1.Form1.resources
+C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\obj\Debug\League1.Properties.Resources.resources
+C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\obj\Debug\League1.csproj.GenerateResource.Cache
+C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\bin\Debug\League1.exe
+C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\bin\Debug\League1.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\obj\Debug\League1.exe
+C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\obj\Debug\League1.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\bin\Debug\League1.exe.manifest
+C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\bin\Debug\League1.application
+C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\obj\Debug\League1.exe.manifest
+C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\obj\Debug\League1.application
