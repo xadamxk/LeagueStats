@@ -2,8 +2,10 @@
 ### Description
 Get live summoner stats for League of Legends games.
 
+<hr>
 Note: This program is <i>almost</i> complete - figuring out how to handle additional API requests & a few bugs.
 
+<hr>
 
 <p align="center">
 5v5 - Normal - Summoners Rift
