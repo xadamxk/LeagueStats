@@ -46,6 +46,11 @@ Get live summoner stats for League of Legends games
 
 
 #League API 
+###Back Story
+<p>I've been learning C# a little over a year now (3/16/2016) and I decided to code this program to familiarize myself with <a href="https://developer.riotgames.com">League's API</a>. Prior to this project I was completely unaware of json and API responces, so it was definitely a learning expereince. Between school, breaks, and brick walls... this project took about 2 weeks to complete. I had no desire to host my own website and handle API requests using my own Developer Key, so I allowed users to input their own dev keys so they can use the program (and make requests!) as they please. If you run into a bug, have a suggestion, or just want to chat - make an issue or add me on League (NA - xadamxk). I'm a bit new to Github as well, so I apologize if I did anything wrong!
+
+Enjoy!</p>
+
 ###Request Calls
 <ul>
 <li>Summoner-V1.4</li>
