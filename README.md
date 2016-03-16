@@ -40,12 +40,14 @@ Note: This program is <i>almost</i> complete - figuring out how to handle additi
 </ul>
 <li><b>General:</b> General ranked stats for each player.</li>
 <ul>
+<li><b>General(#):</b> # represents number of ranked games played (General(#)).</li>
 <li><b>KDA:</b> Average ranked KDA (Kill/Death/Assists).</li>
 <li><b>Win-Rate:</b> Average ranked Win-Rate (%).</li>
 <li><b>Mastery(lvl):</b> Player's champion mastery level (WIP).</li>
 </ul>
 <li><b>Champion:</b> Champion ranked stats for each player.</li>
 <ul>
+<li><b>Champion(#):</b> # represents number of ranked games played as specific champion (Champion(#)).</li>
 <li><b>Champion(KDA):</b> Average ranked KDA for specific champion (Kill/Death/Assists).</li>
 <li><b>Champion(WR):</b> Average ranked Win-Rate for specific champion (%).</li>
 <li><b>Mastery(Pts):</b> Player's champion mastery points (WIP).</li>
