@@ -9,17 +9,17 @@ Get live summoner stats for League of Legends games.
 <hr>
 
 <p align="center">
-5v5 - Normal - Summoners Rift Results
+5v5 - Normal - Summoners Rift View
 <br>
   <a href="http://i.imgur.com/OpbuyKA.png"><img src="http://i.imgur.com/OpbuyKA.png" title="source: imgur.com" height="390px" width="410px"/></a>
   <br>
-  3v3 - Bots - Twisted Treeline Results
+  3v3 - Bots - Twisted Treeline View
   <br>
   <a href="http://i.imgur.com/eg3BVkQ.png"><img src="http://i.imgur.com/eg3BVkQ.png" title="source: imgur.com" height="275px" width="410px"/></a>
   <br>
-  LeagueStats on Launch
+  LeagueStats Default/ Launch View
   <br>
-  <a href="http://i.imgur.com/eOhScnh.png"><img src="http://i.imgur.com/eOhScnh.png" title="source: imgur.com" height="200px" width="410px"/></a>
+  <a href="http://i.imgur.com/eOhScnh.png"><img src="http://i.imgur.com/eOhScnh.png" title="source: imgur.com" height="100px" width="410px"/></a>
 </p>
 
 
