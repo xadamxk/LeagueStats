@@ -44,7 +44,7 @@ Get live summoner stats for League of Legends games.
 <li><b>LP:</b> Current League Point count (0 - 100).</li>
 <li><b>Recruit:</b> Recently joined this league (True/False).</li>
 <li><b>Veteran:</b> Played 100 or more games in this league (True/False).</li>
-<li><b>Streak:</b> Has won 3 or more games in a row (True/False)).</li>
+<li><b>Streak:</b> Has won 3 or more games in a row (True/False).</li>
 </ul>
 <li><b>General:</b> General ranked stats for each player.</li>
 <ul>
