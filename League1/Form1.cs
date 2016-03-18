@@ -865,7 +865,6 @@ namespace League1
 
             try
             {
-                // https://na.api.pvp.net/api/lol/na/v2.5/league/by-summoner/51581084, 49010124/entry?api_key=97e5946d-2d85-4071-98a7-ebc98c9495b1
                 string leagueRequestInfo = webClient.DownloadString(leagueInfoRequestURL);
 
                 // Remove ID's from string, replace with "SummonerName"
@@ -1803,7 +1802,6 @@ namespace League1
 
         private Image GetSummonerSpell(int spellId)
         {
-            // https://global.api.pvp.net/api/lol/static-data/na/v1.2/summoner-spell?api_key=97e5946d-2d85-4071-98a7-ebc98c9495b1
             Image spellImage;
 
             switch (spellId)
