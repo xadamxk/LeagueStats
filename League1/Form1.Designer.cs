@@ -47,6 +47,9 @@
             this.groupBoxEnemyPlayer1 = new System.Windows.Forms.GroupBox();
             this.labelChamp1Champion = new System.Windows.Forms.Label();
             this.labelChamp1General = new System.Windows.Forms.Label();
+            this.pictureBoxChamp1Streak = new System.Windows.Forms.PictureBox();
+            this.pictureBoxChamp1Veteran = new System.Windows.Forms.PictureBox();
+            this.pictureBoxChamp1Recruit = new System.Windows.Forms.PictureBox();
             this.labelChamp1Streak = new System.Windows.Forms.Label();
             this.labelChamp1Veteran = new System.Windows.Forms.Label();
             this.labelChamp1Recruit = new System.Windows.Forms.Label();
@@ -59,12 +62,19 @@
             this.labelChamp1LP = new System.Windows.Forms.Label();
             this.labelChamp1Division = new System.Windows.Forms.Label();
             this.labelChamp1Rank = new System.Windows.Forms.Label();
+            this.pictureBoxChamp1 = new System.Windows.Forms.PictureBox();
+            this.pictureBoxChamp1Spell1 = new System.Windows.Forms.PictureBox();
+            this.pictureBoxChamp1Spell2 = new System.Windows.Forms.PictureBox();
+            this.pictureBoxChamp1Rank = new System.Windows.Forms.PictureBox();
             this.groupBoxEnemyPlayer2 = new System.Windows.Forms.GroupBox();
             this.labelChamp2General = new System.Windows.Forms.Label();
             this.labelChamp2Champion = new System.Windows.Forms.Label();
             this.labelChamp2ChampionKDA = new System.Windows.Forms.Label();
+            this.pictureBoxChamp2Streak = new System.Windows.Forms.PictureBox();
             this.labelChampion2MasteryPoints = new System.Windows.Forms.Label();
+            this.pictureBoxChamp2Veteran = new System.Windows.Forms.PictureBox();
             this.labelChamp2ChampionWR = new System.Windows.Forms.Label();
+            this.pictureBoxChamp2Recruit = new System.Windows.Forms.PictureBox();
             this.labelChamp2Streak = new System.Windows.Forms.Label();
             this.labelChamp2Veteran = new System.Windows.Forms.Label();
             this.labelChamp2Recruit = new System.Windows.Forms.Label();
@@ -72,14 +82,21 @@
             this.labelChampion2WinRate = new System.Windows.Forms.Label();
             this.labelChamp2LP = new System.Windows.Forms.Label();
             this.labelChamp2MasteryLevel = new System.Windows.Forms.Label();
+            this.pictureBoxChamp2 = new System.Windows.Forms.PictureBox();
             this.labelChamp2Division = new System.Windows.Forms.Label();
             this.labelChamp2Rank = new System.Windows.Forms.Label();
+            this.pictureBoxChamp2Spell2 = new System.Windows.Forms.PictureBox();
+            this.pictureBoxChamp2Spell1 = new System.Windows.Forms.PictureBox();
+            this.pictureBoxChamp2Rank = new System.Windows.Forms.PictureBox();
             this.groupBoxEnemyPlayer3 = new System.Windows.Forms.GroupBox();
             this.labelChamp3General = new System.Windows.Forms.Label();
             this.labelChamp3Champion = new System.Windows.Forms.Label();
             this.labelChamp3ChampionKDA = new System.Windows.Forms.Label();
             this.labelChampion3MasteryPoints = new System.Windows.Forms.Label();
             this.labelChamp3ChampionWR = new System.Windows.Forms.Label();
+            this.pictureBoxChamp3Streak = new System.Windows.Forms.PictureBox();
+            this.pictureBoxChamp3Veteran = new System.Windows.Forms.PictureBox();
+            this.pictureBoxChamp3Recruit = new System.Windows.Forms.PictureBox();
             this.labelChamp3Streak = new System.Windows.Forms.Label();
             this.labelChamp3Veteran = new System.Windows.Forms.Label();
             this.labelChamp3Recruit = new System.Windows.Forms.Label();
@@ -87,14 +104,21 @@
             this.labelChampion3WinRate = new System.Windows.Forms.Label();
             this.labelChamp3LP = new System.Windows.Forms.Label();
             this.labelChamp3MasteryLevel = new System.Windows.Forms.Label();
+            this.pictureBoxChamp3 = new System.Windows.Forms.PictureBox();
             this.labelChamp3Division = new System.Windows.Forms.Label();
             this.labelChamp3Rank = new System.Windows.Forms.Label();
+            this.pictureBoxChamp3Spell1 = new System.Windows.Forms.PictureBox();
+            this.pictureBoxChamp3Spell2 = new System.Windows.Forms.PictureBox();
+            this.pictureBoxChamp3Rank = new System.Windows.Forms.PictureBox();
             this.groupBoxEnemyPlayer4 = new System.Windows.Forms.GroupBox();
             this.labelChamp4General = new System.Windows.Forms.Label();
             this.labelChamp4Champion = new System.Windows.Forms.Label();
             this.labelChamp4ChampionKDA = new System.Windows.Forms.Label();
             this.labelChampion4MasteryPoints = new System.Windows.Forms.Label();
             this.labelChamp4ChampionWR = new System.Windows.Forms.Label();
+            this.pictureBoxChamp4Streak = new System.Windows.Forms.PictureBox();
+            this.pictureBoxChamp4Veteran = new System.Windows.Forms.PictureBox();
+            this.pictureBoxChamp4Recruit = new System.Windows.Forms.PictureBox();
             this.labelChamp4Streak = new System.Windows.Forms.Label();
             this.labelChamp4Veteran = new System.Windows.Forms.Label();
             this.labelChamp4Recruit = new System.Windows.Forms.Label();
@@ -102,95 +126,38 @@
             this.labelChampion4WinRate = new System.Windows.Forms.Label();
             this.labelChamp4MasteryLevel = new System.Windows.Forms.Label();
             this.labelChamp4LP = new System.Windows.Forms.Label();
+            this.pictureBoxChamp4 = new System.Windows.Forms.PictureBox();
             this.labelChamp4Division = new System.Windows.Forms.Label();
             this.labelChamp4Rank = new System.Windows.Forms.Label();
+            this.pictureBoxChamp4Spell2 = new System.Windows.Forms.PictureBox();
+            this.pictureBoxChamp4Spell1 = new System.Windows.Forms.PictureBox();
+            this.pictureBoxChamp4Rank = new System.Windows.Forms.PictureBox();
             this.groupBoxEnemyPlayer5 = new System.Windows.Forms.GroupBox();
             this.labelChamp5General = new System.Windows.Forms.Label();
             this.labelChamp5Champion = new System.Windows.Forms.Label();
             this.labelChamp5ChampionKDA = new System.Windows.Forms.Label();
             this.labelChampion5MasteryPoints = new System.Windows.Forms.Label();
             this.labelChamp5ChampionWR = new System.Windows.Forms.Label();
+            this.pictureBoxChamp5Streak = new System.Windows.Forms.PictureBox();
             this.labelChamp5Streak = new System.Windows.Forms.Label();
+            this.pictureBoxChamp5Veteran = new System.Windows.Forms.PictureBox();
             this.labelChamp5Veteran = new System.Windows.Forms.Label();
+            this.pictureBoxChamp5Recruit = new System.Windows.Forms.PictureBox();
             this.labelChamp5Recruit = new System.Windows.Forms.Label();
             this.labelChamp5KDA = new System.Windows.Forms.Label();
             this.labelChampion5WinRate = new System.Windows.Forms.Label();
             this.labelChamp5MasteryLevel = new System.Windows.Forms.Label();
             this.labelChamp5LP = new System.Windows.Forms.Label();
+            this.pictureBoxChamp5 = new System.Windows.Forms.PictureBox();
             this.labelChamp5Division = new System.Windows.Forms.Label();
             this.labelChamp5Rank = new System.Windows.Forms.Label();
-            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
-            this.buttonAllyTeam = new System.Windows.Forms.Button();
-            this.pictureBoxLoading = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp5Streak = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp5Veteran = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp5Recruit = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp5 = new System.Windows.Forms.PictureBox();
             this.pictureBoxChamp5Spell1 = new System.Windows.Forms.PictureBox();
             this.pictureBoxChamp5Spell2 = new System.Windows.Forms.PictureBox();
             this.pictureBoxChamp5Rank = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp4Streak = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp4Veteran = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp4Recruit = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp4 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp4Spell2 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp4Spell1 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp4Rank = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp3Streak = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp3Veteran = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp3Recruit = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp3 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp3Spell1 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp3Spell2 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp3Rank = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp2Streak = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp2Veteran = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp2Recruit = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp2 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp2Spell2 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp2Spell1 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp2Rank = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp1Streak = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp1Veteran = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp1Recruit = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp1 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp1Spell1 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp1Spell2 = new System.Windows.Forms.PictureBox();
-            this.pictureBoxChamp1Rank = new System.Windows.Forms.PictureBox();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.buttonAllyTeam = new System.Windows.Forms.Button();
+            this.pictureBoxLoading = new System.Windows.Forms.PictureBox();
             this.groupBoxEnemyPlayer1.SuspendLayout();
-            this.groupBoxEnemyPlayer2.SuspendLayout();
-            this.groupBoxEnemyPlayer3.SuspendLayout();
-            this.groupBoxEnemyPlayer4.SuspendLayout();
-            this.groupBoxEnemyPlayer5.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLoading)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Streak)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Veteran)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Recruit)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Spell1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Spell2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Rank)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Streak)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Veteran)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Recruit)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Spell2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Spell1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Rank)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Streak)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Veteran)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Recruit)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Spell1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Spell2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Rank)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Streak)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Veteran)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Recruit)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Spell2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Spell1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Rank)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp1Streak)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp1Veteran)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp1Recruit)).BeginInit();
@@ -198,6 +165,39 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp1Spell1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp1Spell2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp1Rank)).BeginInit();
+            this.groupBoxEnemyPlayer2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Streak)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Veteran)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Recruit)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Spell2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Spell1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Rank)).BeginInit();
+            this.groupBoxEnemyPlayer3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Streak)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Veteran)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Recruit)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Spell1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Spell2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Rank)).BeginInit();
+            this.groupBoxEnemyPlayer4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Streak)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Veteran)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Recruit)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Spell2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Spell1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Rank)).BeginInit();
+            this.groupBoxEnemyPlayer5.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Streak)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Veteran)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Recruit)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Spell1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Spell2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Rank)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLoading)).BeginInit();
             this.SuspendLayout();
             // 
             // buttonEnemyTeam
@@ -284,6 +284,7 @@
             this.textBoxAPIKey.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxAPIKey.Location = new System.Drawing.Point(108, 12);
             this.textBoxAPIKey.Name = "textBoxAPIKey";
+            this.textBoxAPIKey.PasswordChar = '*';
             this.textBoxAPIKey.Size = new System.Drawing.Size(437, 30);
             this.textBoxAPIKey.TabIndex = 7;
             // 
@@ -419,6 +420,33 @@
             this.labelChamp1General.TabIndex = 51;
             this.labelChamp1General.Text = "General";
             // 
+            // pictureBoxChamp1Streak
+            // 
+            this.pictureBoxChamp1Streak.Location = new System.Drawing.Point(417, 81);
+            this.pictureBoxChamp1Streak.Name = "pictureBoxChamp1Streak";
+            this.pictureBoxChamp1Streak.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxChamp1Streak.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp1Streak.TabIndex = 50;
+            this.pictureBoxChamp1Streak.TabStop = false;
+            // 
+            // pictureBoxChamp1Veteran
+            // 
+            this.pictureBoxChamp1Veteran.Location = new System.Drawing.Point(417, 61);
+            this.pictureBoxChamp1Veteran.Name = "pictureBoxChamp1Veteran";
+            this.pictureBoxChamp1Veteran.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxChamp1Veteran.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp1Veteran.TabIndex = 49;
+            this.pictureBoxChamp1Veteran.TabStop = false;
+            // 
+            // pictureBoxChamp1Recruit
+            // 
+            this.pictureBoxChamp1Recruit.Location = new System.Drawing.Point(417, 42);
+            this.pictureBoxChamp1Recruit.Name = "pictureBoxChamp1Recruit";
+            this.pictureBoxChamp1Recruit.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxChamp1Recruit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp1Recruit.TabIndex = 48;
+            this.pictureBoxChamp1Recruit.TabStop = false;
+            // 
             // labelChamp1Streak
             // 
             this.labelChamp1Streak.AutoSize = true;
@@ -536,6 +564,43 @@
             this.labelChamp1Rank.TabIndex = 33;
             this.labelChamp1Rank.Text = "Rank: ";
             // 
+            // pictureBoxChamp1
+            // 
+            this.pictureBoxChamp1.Location = new System.Drawing.Point(6, 24);
+            this.pictureBoxChamp1.Name = "pictureBoxChamp1";
+            this.pictureBoxChamp1.Size = new System.Drawing.Size(80, 80);
+            this.pictureBoxChamp1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp1.TabIndex = 11;
+            this.pictureBoxChamp1.TabStop = false;
+            // 
+            // pictureBoxChamp1Spell1
+            // 
+            this.pictureBoxChamp1Spell1.Location = new System.Drawing.Point(91, 24);
+            this.pictureBoxChamp1Spell1.Name = "pictureBoxChamp1Spell1";
+            this.pictureBoxChamp1Spell1.Size = new System.Drawing.Size(35, 35);
+            this.pictureBoxChamp1Spell1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp1Spell1.TabIndex = 16;
+            this.pictureBoxChamp1Spell1.TabStop = false;
+            // 
+            // pictureBoxChamp1Spell2
+            // 
+            this.pictureBoxChamp1Spell2.Location = new System.Drawing.Point(92, 69);
+            this.pictureBoxChamp1Spell2.Name = "pictureBoxChamp1Spell2";
+            this.pictureBoxChamp1Spell2.Size = new System.Drawing.Size(35, 35);
+            this.pictureBoxChamp1Spell2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp1Spell2.TabIndex = 17;
+            this.pictureBoxChamp1Spell2.TabStop = false;
+            // 
+            // pictureBoxChamp1Rank
+            // 
+            this.pictureBoxChamp1Rank.Location = new System.Drawing.Point(133, 24);
+            this.pictureBoxChamp1Rank.Name = "pictureBoxChamp1Rank";
+            this.pictureBoxChamp1Rank.Size = new System.Drawing.Size(60, 80);
+            this.pictureBoxChamp1Rank.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp1Rank.TabIndex = 31;
+            this.pictureBoxChamp1Rank.TabStop = false;
+            this.pictureBoxChamp1Rank.MouseHover += new System.EventHandler(this.pictureBoxChamp1Rank_MouseHover);
+            // 
             // groupBoxEnemyPlayer2
             // 
             this.groupBoxEnemyPlayer2.Controls.Add(this.labelChamp2General);
@@ -597,6 +662,15 @@
             this.labelChamp2ChampionKDA.TabIndex = 55;
             this.labelChamp2ChampionKDA.Text = "Champion(KDA): ";
             // 
+            // pictureBoxChamp2Streak
+            // 
+            this.pictureBoxChamp2Streak.Location = new System.Drawing.Point(417, 87);
+            this.pictureBoxChamp2Streak.Name = "pictureBoxChamp2Streak";
+            this.pictureBoxChamp2Streak.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxChamp2Streak.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp2Streak.TabIndex = 52;
+            this.pictureBoxChamp2Streak.TabStop = false;
+            // 
             // labelChampion2MasteryPoints
             // 
             this.labelChampion2MasteryPoints.AutoSize = true;
@@ -607,6 +681,15 @@
             this.labelChampion2MasteryPoints.TabIndex = 54;
             this.labelChampion2MasteryPoints.Text = "Mastery(pts): ";
             // 
+            // pictureBoxChamp2Veteran
+            // 
+            this.pictureBoxChamp2Veteran.Location = new System.Drawing.Point(417, 67);
+            this.pictureBoxChamp2Veteran.Name = "pictureBoxChamp2Veteran";
+            this.pictureBoxChamp2Veteran.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxChamp2Veteran.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp2Veteran.TabIndex = 51;
+            this.pictureBoxChamp2Veteran.TabStop = false;
+            // 
             // labelChamp2ChampionWR
             // 
             this.labelChamp2ChampionWR.AutoSize = true;
@@ -616,6 +699,15 @@
             this.labelChamp2ChampionWR.Size = new System.Drawing.Size(134, 20);
             this.labelChamp2ChampionWR.TabIndex = 53;
             this.labelChamp2ChampionWR.Text = "Champion(WR): ";
+            // 
+            // pictureBoxChamp2Recruit
+            // 
+            this.pictureBoxChamp2Recruit.Location = new System.Drawing.Point(417, 47);
+            this.pictureBoxChamp2Recruit.Name = "pictureBoxChamp2Recruit";
+            this.pictureBoxChamp2Recruit.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxChamp2Recruit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp2Recruit.TabIndex = 49;
+            this.pictureBoxChamp2Recruit.TabStop = false;
             // 
             // labelChamp2Streak
             // 
@@ -687,6 +779,15 @@
             this.labelChamp2MasteryLevel.TabIndex = 42;
             this.labelChamp2MasteryLevel.Text = "Mastery(lvl): ";
             // 
+            // pictureBoxChamp2
+            // 
+            this.pictureBoxChamp2.Location = new System.Drawing.Point(6, 24);
+            this.pictureBoxChamp2.Name = "pictureBoxChamp2";
+            this.pictureBoxChamp2.Size = new System.Drawing.Size(80, 80);
+            this.pictureBoxChamp2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp2.TabIndex = 12;
+            this.pictureBoxChamp2.TabStop = false;
+            // 
             // labelChamp2Division
             // 
             this.labelChamp2Division.AutoSize = true;
@@ -706,6 +807,34 @@
             this.labelChamp2Rank.Size = new System.Drawing.Size(57, 20);
             this.labelChamp2Rank.TabIndex = 36;
             this.labelChamp2Rank.Text = "Rank: ";
+            // 
+            // pictureBoxChamp2Spell2
+            // 
+            this.pictureBoxChamp2Spell2.Location = new System.Drawing.Point(92, 69);
+            this.pictureBoxChamp2Spell2.Name = "pictureBoxChamp2Spell2";
+            this.pictureBoxChamp2Spell2.Size = new System.Drawing.Size(35, 35);
+            this.pictureBoxChamp2Spell2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp2Spell2.TabIndex = 19;
+            this.pictureBoxChamp2Spell2.TabStop = false;
+            // 
+            // pictureBoxChamp2Spell1
+            // 
+            this.pictureBoxChamp2Spell1.Location = new System.Drawing.Point(92, 24);
+            this.pictureBoxChamp2Spell1.Name = "pictureBoxChamp2Spell1";
+            this.pictureBoxChamp2Spell1.Size = new System.Drawing.Size(35, 35);
+            this.pictureBoxChamp2Spell1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp2Spell1.TabIndex = 18;
+            this.pictureBoxChamp2Spell1.TabStop = false;
+            // 
+            // pictureBoxChamp2Rank
+            // 
+            this.pictureBoxChamp2Rank.Location = new System.Drawing.Point(133, 24);
+            this.pictureBoxChamp2Rank.Name = "pictureBoxChamp2Rank";
+            this.pictureBoxChamp2Rank.Size = new System.Drawing.Size(60, 80);
+            this.pictureBoxChamp2Rank.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp2Rank.TabIndex = 32;
+            this.pictureBoxChamp2Rank.TabStop = false;
+            this.pictureBoxChamp2Rank.MouseHover += new System.EventHandler(this.pictureBoxChamp2Rank_MouseHover);
             // 
             // groupBoxEnemyPlayer3
             // 
@@ -788,6 +917,33 @@
             this.labelChamp3ChampionWR.TabIndex = 56;
             this.labelChamp3ChampionWR.Text = "Champion(WR): ";
             // 
+            // pictureBoxChamp3Streak
+            // 
+            this.pictureBoxChamp3Streak.Location = new System.Drawing.Point(417, 87);
+            this.pictureBoxChamp3Streak.Name = "pictureBoxChamp3Streak";
+            this.pictureBoxChamp3Streak.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxChamp3Streak.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp3Streak.TabIndex = 55;
+            this.pictureBoxChamp3Streak.TabStop = false;
+            // 
+            // pictureBoxChamp3Veteran
+            // 
+            this.pictureBoxChamp3Veteran.Location = new System.Drawing.Point(417, 67);
+            this.pictureBoxChamp3Veteran.Name = "pictureBoxChamp3Veteran";
+            this.pictureBoxChamp3Veteran.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxChamp3Veteran.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp3Veteran.TabIndex = 54;
+            this.pictureBoxChamp3Veteran.TabStop = false;
+            // 
+            // pictureBoxChamp3Recruit
+            // 
+            this.pictureBoxChamp3Recruit.Location = new System.Drawing.Point(417, 47);
+            this.pictureBoxChamp3Recruit.Name = "pictureBoxChamp3Recruit";
+            this.pictureBoxChamp3Recruit.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxChamp3Recruit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp3Recruit.TabIndex = 53;
+            this.pictureBoxChamp3Recruit.TabStop = false;
+            // 
             // labelChamp3Streak
             // 
             this.labelChamp3Streak.AutoSize = true;
@@ -858,6 +1014,15 @@
             this.labelChamp3MasteryLevel.TabIndex = 45;
             this.labelChamp3MasteryLevel.Text = "Mastery(lvl): ";
             // 
+            // pictureBoxChamp3
+            // 
+            this.pictureBoxChamp3.Location = new System.Drawing.Point(6, 24);
+            this.pictureBoxChamp3.Name = "pictureBoxChamp3";
+            this.pictureBoxChamp3.Size = new System.Drawing.Size(80, 80);
+            this.pictureBoxChamp3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp3.TabIndex = 13;
+            this.pictureBoxChamp3.TabStop = false;
+            // 
             // labelChamp3Division
             // 
             this.labelChamp3Division.AutoSize = true;
@@ -877,6 +1042,34 @@
             this.labelChamp3Rank.Size = new System.Drawing.Size(57, 20);
             this.labelChamp3Rank.TabIndex = 39;
             this.labelChamp3Rank.Text = "Rank: ";
+            // 
+            // pictureBoxChamp3Spell1
+            // 
+            this.pictureBoxChamp3Spell1.Location = new System.Drawing.Point(92, 24);
+            this.pictureBoxChamp3Spell1.Name = "pictureBoxChamp3Spell1";
+            this.pictureBoxChamp3Spell1.Size = new System.Drawing.Size(35, 35);
+            this.pictureBoxChamp3Spell1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp3Spell1.TabIndex = 20;
+            this.pictureBoxChamp3Spell1.TabStop = false;
+            // 
+            // pictureBoxChamp3Spell2
+            // 
+            this.pictureBoxChamp3Spell2.Location = new System.Drawing.Point(92, 69);
+            this.pictureBoxChamp3Spell2.Name = "pictureBoxChamp3Spell2";
+            this.pictureBoxChamp3Spell2.Size = new System.Drawing.Size(35, 35);
+            this.pictureBoxChamp3Spell2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp3Spell2.TabIndex = 21;
+            this.pictureBoxChamp3Spell2.TabStop = false;
+            // 
+            // pictureBoxChamp3Rank
+            // 
+            this.pictureBoxChamp3Rank.Location = new System.Drawing.Point(133, 24);
+            this.pictureBoxChamp3Rank.Name = "pictureBoxChamp3Rank";
+            this.pictureBoxChamp3Rank.Size = new System.Drawing.Size(60, 80);
+            this.pictureBoxChamp3Rank.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp3Rank.TabIndex = 33;
+            this.pictureBoxChamp3Rank.TabStop = false;
+            this.pictureBoxChamp3Rank.MouseHover += new System.EventHandler(this.pictureBoxChamp3Rank_MouseHover);
             // 
             // groupBoxEnemyPlayer4
             // 
@@ -959,6 +1152,33 @@
             this.labelChamp4ChampionWR.TabIndex = 59;
             this.labelChamp4ChampionWR.Text = "Champion(WR): ";
             // 
+            // pictureBoxChamp4Streak
+            // 
+            this.pictureBoxChamp4Streak.Location = new System.Drawing.Point(417, 88);
+            this.pictureBoxChamp4Streak.Name = "pictureBoxChamp4Streak";
+            this.pictureBoxChamp4Streak.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxChamp4Streak.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp4Streak.TabIndex = 58;
+            this.pictureBoxChamp4Streak.TabStop = false;
+            // 
+            // pictureBoxChamp4Veteran
+            // 
+            this.pictureBoxChamp4Veteran.Location = new System.Drawing.Point(417, 67);
+            this.pictureBoxChamp4Veteran.Name = "pictureBoxChamp4Veteran";
+            this.pictureBoxChamp4Veteran.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxChamp4Veteran.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp4Veteran.TabIndex = 57;
+            this.pictureBoxChamp4Veteran.TabStop = false;
+            // 
+            // pictureBoxChamp4Recruit
+            // 
+            this.pictureBoxChamp4Recruit.Location = new System.Drawing.Point(417, 43);
+            this.pictureBoxChamp4Recruit.Name = "pictureBoxChamp4Recruit";
+            this.pictureBoxChamp4Recruit.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxChamp4Recruit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp4Recruit.TabIndex = 56;
+            this.pictureBoxChamp4Recruit.TabStop = false;
+            // 
             // labelChamp4Streak
             // 
             this.labelChamp4Streak.AutoSize = true;
@@ -1029,6 +1249,15 @@
             this.labelChamp4LP.TabIndex = 43;
             this.labelChamp4LP.Text = "LP: ";
             // 
+            // pictureBoxChamp4
+            // 
+            this.pictureBoxChamp4.Location = new System.Drawing.Point(6, 24);
+            this.pictureBoxChamp4.Name = "pictureBoxChamp4";
+            this.pictureBoxChamp4.Size = new System.Drawing.Size(80, 80);
+            this.pictureBoxChamp4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp4.TabIndex = 14;
+            this.pictureBoxChamp4.TabStop = false;
+            // 
             // labelChamp4Division
             // 
             this.labelChamp4Division.AutoSize = true;
@@ -1048,6 +1277,34 @@
             this.labelChamp4Rank.Size = new System.Drawing.Size(57, 20);
             this.labelChamp4Rank.TabIndex = 42;
             this.labelChamp4Rank.Text = "Rank: ";
+            // 
+            // pictureBoxChamp4Spell2
+            // 
+            this.pictureBoxChamp4Spell2.Location = new System.Drawing.Point(91, 69);
+            this.pictureBoxChamp4Spell2.Name = "pictureBoxChamp4Spell2";
+            this.pictureBoxChamp4Spell2.Size = new System.Drawing.Size(35, 35);
+            this.pictureBoxChamp4Spell2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp4Spell2.TabIndex = 23;
+            this.pictureBoxChamp4Spell2.TabStop = false;
+            // 
+            // pictureBoxChamp4Spell1
+            // 
+            this.pictureBoxChamp4Spell1.Location = new System.Drawing.Point(91, 24);
+            this.pictureBoxChamp4Spell1.Name = "pictureBoxChamp4Spell1";
+            this.pictureBoxChamp4Spell1.Size = new System.Drawing.Size(35, 35);
+            this.pictureBoxChamp4Spell1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp4Spell1.TabIndex = 22;
+            this.pictureBoxChamp4Spell1.TabStop = false;
+            // 
+            // pictureBoxChamp4Rank
+            // 
+            this.pictureBoxChamp4Rank.Location = new System.Drawing.Point(133, 24);
+            this.pictureBoxChamp4Rank.Name = "pictureBoxChamp4Rank";
+            this.pictureBoxChamp4Rank.Size = new System.Drawing.Size(60, 80);
+            this.pictureBoxChamp4Rank.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp4Rank.TabIndex = 34;
+            this.pictureBoxChamp4Rank.TabStop = false;
+            this.pictureBoxChamp4Rank.MouseHover += new System.EventHandler(this.pictureBoxChamp4Rank_MouseHover);
             // 
             // groupBoxEnemyPlayer5
             // 
@@ -1130,6 +1387,15 @@
             this.labelChamp5ChampionWR.TabIndex = 62;
             this.labelChamp5ChampionWR.Text = "Champion(WR): ";
             // 
+            // pictureBoxChamp5Streak
+            // 
+            this.pictureBoxChamp5Streak.Location = new System.Drawing.Point(417, 87);
+            this.pictureBoxChamp5Streak.Name = "pictureBoxChamp5Streak";
+            this.pictureBoxChamp5Streak.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxChamp5Streak.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp5Streak.TabIndex = 61;
+            this.pictureBoxChamp5Streak.TabStop = false;
+            // 
             // labelChamp5Streak
             // 
             this.labelChamp5Streak.AutoSize = true;
@@ -1140,6 +1406,15 @@
             this.labelChamp5Streak.TabIndex = 53;
             this.labelChamp5Streak.Text = "Streak: ";
             // 
+            // pictureBoxChamp5Veteran
+            // 
+            this.pictureBoxChamp5Veteran.Location = new System.Drawing.Point(417, 67);
+            this.pictureBoxChamp5Veteran.Name = "pictureBoxChamp5Veteran";
+            this.pictureBoxChamp5Veteran.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxChamp5Veteran.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp5Veteran.TabIndex = 60;
+            this.pictureBoxChamp5Veteran.TabStop = false;
+            // 
             // labelChamp5Veteran
             // 
             this.labelChamp5Veteran.AutoSize = true;
@@ -1149,6 +1424,15 @@
             this.labelChamp5Veteran.Size = new System.Drawing.Size(77, 20);
             this.labelChamp5Veteran.TabIndex = 52;
             this.labelChamp5Veteran.Text = "Veteran: ";
+            // 
+            // pictureBoxChamp5Recruit
+            // 
+            this.pictureBoxChamp5Recruit.Location = new System.Drawing.Point(417, 47);
+            this.pictureBoxChamp5Recruit.Name = "pictureBoxChamp5Recruit";
+            this.pictureBoxChamp5Recruit.Size = new System.Drawing.Size(16, 16);
+            this.pictureBoxChamp5Recruit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp5Recruit.TabIndex = 59;
+            this.pictureBoxChamp5Recruit.TabStop = false;
             // 
             // labelChamp5Recruit
             // 
@@ -1200,6 +1484,15 @@
             this.labelChamp5LP.TabIndex = 46;
             this.labelChamp5LP.Text = "LP: ";
             // 
+            // pictureBoxChamp5
+            // 
+            this.pictureBoxChamp5.Location = new System.Drawing.Point(6, 24);
+            this.pictureBoxChamp5.Name = "pictureBoxChamp5";
+            this.pictureBoxChamp5.Size = new System.Drawing.Size(80, 80);
+            this.pictureBoxChamp5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxChamp5.TabIndex = 15;
+            this.pictureBoxChamp5.TabStop = false;
+            // 
             // labelChamp5Division
             // 
             this.labelChamp5Division.AutoSize = true;
@@ -1219,63 +1512,6 @@
             this.labelChamp5Rank.Size = new System.Drawing.Size(57, 20);
             this.labelChamp5Rank.TabIndex = 45;
             this.labelChamp5Rank.Text = "Rank: ";
-            // 
-            // buttonAllyTeam
-            // 
-            this.buttonAllyTeam.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonAllyTeam.Location = new System.Drawing.Point(466, 93);
-            this.buttonAllyTeam.Name = "buttonAllyTeam";
-            this.buttonAllyTeam.Size = new System.Drawing.Size(391, 40);
-            this.buttonAllyTeam.TabIndex = 41;
-            this.buttonAllyTeam.Text = "Ally Team Search";
-            this.buttonAllyTeam.UseVisualStyleBackColor = true;
-            this.buttonAllyTeam.Click += new System.EventHandler(this.buttonAllyTeam_Click);
-            // 
-            // pictureBoxLoading
-            // 
-            this.pictureBoxLoading.Image = global::League1.Properties.Resources.Loading;
-            this.pictureBoxLoading.Location = new System.Drawing.Point(420, 93);
-            this.pictureBoxLoading.Name = "pictureBoxLoading";
-            this.pictureBoxLoading.Size = new System.Drawing.Size(40, 40);
-            this.pictureBoxLoading.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxLoading.TabIndex = 42;
-            this.pictureBoxLoading.TabStop = false;
-            // 
-            // pictureBoxChamp5Streak
-            // 
-            this.pictureBoxChamp5Streak.Location = new System.Drawing.Point(417, 87);
-            this.pictureBoxChamp5Streak.Name = "pictureBoxChamp5Streak";
-            this.pictureBoxChamp5Streak.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxChamp5Streak.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp5Streak.TabIndex = 61;
-            this.pictureBoxChamp5Streak.TabStop = false;
-            // 
-            // pictureBoxChamp5Veteran
-            // 
-            this.pictureBoxChamp5Veteran.Location = new System.Drawing.Point(417, 67);
-            this.pictureBoxChamp5Veteran.Name = "pictureBoxChamp5Veteran";
-            this.pictureBoxChamp5Veteran.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxChamp5Veteran.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp5Veteran.TabIndex = 60;
-            this.pictureBoxChamp5Veteran.TabStop = false;
-            // 
-            // pictureBoxChamp5Recruit
-            // 
-            this.pictureBoxChamp5Recruit.Location = new System.Drawing.Point(417, 47);
-            this.pictureBoxChamp5Recruit.Name = "pictureBoxChamp5Recruit";
-            this.pictureBoxChamp5Recruit.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxChamp5Recruit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp5Recruit.TabIndex = 59;
-            this.pictureBoxChamp5Recruit.TabStop = false;
-            // 
-            // pictureBoxChamp5
-            // 
-            this.pictureBoxChamp5.Location = new System.Drawing.Point(6, 24);
-            this.pictureBoxChamp5.Name = "pictureBoxChamp5";
-            this.pictureBoxChamp5.Size = new System.Drawing.Size(80, 80);
-            this.pictureBoxChamp5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp5.TabIndex = 15;
-            this.pictureBoxChamp5.TabStop = false;
             // 
             // pictureBoxChamp5Spell1
             // 
@@ -1305,261 +1541,26 @@
             this.pictureBoxChamp5Rank.TabStop = false;
             this.pictureBoxChamp5Rank.MouseHover += new System.EventHandler(this.pictureBoxChamp5Rank_MouseHover);
             // 
-            // pictureBoxChamp4Streak
+            // buttonAllyTeam
             // 
-            this.pictureBoxChamp4Streak.Location = new System.Drawing.Point(417, 88);
-            this.pictureBoxChamp4Streak.Name = "pictureBoxChamp4Streak";
-            this.pictureBoxChamp4Streak.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxChamp4Streak.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp4Streak.TabIndex = 58;
-            this.pictureBoxChamp4Streak.TabStop = false;
+            this.buttonAllyTeam.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonAllyTeam.Location = new System.Drawing.Point(466, 93);
+            this.buttonAllyTeam.Name = "buttonAllyTeam";
+            this.buttonAllyTeam.Size = new System.Drawing.Size(391, 40);
+            this.buttonAllyTeam.TabIndex = 41;
+            this.buttonAllyTeam.Text = "Ally Team Search";
+            this.buttonAllyTeam.UseVisualStyleBackColor = true;
+            this.buttonAllyTeam.Click += new System.EventHandler(this.buttonAllyTeam_Click);
             // 
-            // pictureBoxChamp4Veteran
+            // pictureBoxLoading
             // 
-            this.pictureBoxChamp4Veteran.Location = new System.Drawing.Point(417, 67);
-            this.pictureBoxChamp4Veteran.Name = "pictureBoxChamp4Veteran";
-            this.pictureBoxChamp4Veteran.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxChamp4Veteran.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp4Veteran.TabIndex = 57;
-            this.pictureBoxChamp4Veteran.TabStop = false;
-            // 
-            // pictureBoxChamp4Recruit
-            // 
-            this.pictureBoxChamp4Recruit.Location = new System.Drawing.Point(417, 43);
-            this.pictureBoxChamp4Recruit.Name = "pictureBoxChamp4Recruit";
-            this.pictureBoxChamp4Recruit.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxChamp4Recruit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp4Recruit.TabIndex = 56;
-            this.pictureBoxChamp4Recruit.TabStop = false;
-            // 
-            // pictureBoxChamp4
-            // 
-            this.pictureBoxChamp4.Location = new System.Drawing.Point(6, 24);
-            this.pictureBoxChamp4.Name = "pictureBoxChamp4";
-            this.pictureBoxChamp4.Size = new System.Drawing.Size(80, 80);
-            this.pictureBoxChamp4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp4.TabIndex = 14;
-            this.pictureBoxChamp4.TabStop = false;
-            // 
-            // pictureBoxChamp4Spell2
-            // 
-            this.pictureBoxChamp4Spell2.Location = new System.Drawing.Point(91, 69);
-            this.pictureBoxChamp4Spell2.Name = "pictureBoxChamp4Spell2";
-            this.pictureBoxChamp4Spell2.Size = new System.Drawing.Size(35, 35);
-            this.pictureBoxChamp4Spell2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp4Spell2.TabIndex = 23;
-            this.pictureBoxChamp4Spell2.TabStop = false;
-            // 
-            // pictureBoxChamp4Spell1
-            // 
-            this.pictureBoxChamp4Spell1.Location = new System.Drawing.Point(91, 24);
-            this.pictureBoxChamp4Spell1.Name = "pictureBoxChamp4Spell1";
-            this.pictureBoxChamp4Spell1.Size = new System.Drawing.Size(35, 35);
-            this.pictureBoxChamp4Spell1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp4Spell1.TabIndex = 22;
-            this.pictureBoxChamp4Spell1.TabStop = false;
-            // 
-            // pictureBoxChamp4Rank
-            // 
-            this.pictureBoxChamp4Rank.Location = new System.Drawing.Point(133, 24);
-            this.pictureBoxChamp4Rank.Name = "pictureBoxChamp4Rank";
-            this.pictureBoxChamp4Rank.Size = new System.Drawing.Size(60, 80);
-            this.pictureBoxChamp4Rank.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp4Rank.TabIndex = 34;
-            this.pictureBoxChamp4Rank.TabStop = false;
-            this.pictureBoxChamp4Rank.MouseHover += new System.EventHandler(this.pictureBoxChamp4Rank_MouseHover);
-            // 
-            // pictureBoxChamp3Streak
-            // 
-            this.pictureBoxChamp3Streak.Location = new System.Drawing.Point(417, 87);
-            this.pictureBoxChamp3Streak.Name = "pictureBoxChamp3Streak";
-            this.pictureBoxChamp3Streak.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxChamp3Streak.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp3Streak.TabIndex = 55;
-            this.pictureBoxChamp3Streak.TabStop = false;
-            // 
-            // pictureBoxChamp3Veteran
-            // 
-            this.pictureBoxChamp3Veteran.Location = new System.Drawing.Point(417, 67);
-            this.pictureBoxChamp3Veteran.Name = "pictureBoxChamp3Veteran";
-            this.pictureBoxChamp3Veteran.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxChamp3Veteran.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp3Veteran.TabIndex = 54;
-            this.pictureBoxChamp3Veteran.TabStop = false;
-            // 
-            // pictureBoxChamp3Recruit
-            // 
-            this.pictureBoxChamp3Recruit.Location = new System.Drawing.Point(417, 47);
-            this.pictureBoxChamp3Recruit.Name = "pictureBoxChamp3Recruit";
-            this.pictureBoxChamp3Recruit.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxChamp3Recruit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp3Recruit.TabIndex = 53;
-            this.pictureBoxChamp3Recruit.TabStop = false;
-            // 
-            // pictureBoxChamp3
-            // 
-            this.pictureBoxChamp3.Location = new System.Drawing.Point(6, 24);
-            this.pictureBoxChamp3.Name = "pictureBoxChamp3";
-            this.pictureBoxChamp3.Size = new System.Drawing.Size(80, 80);
-            this.pictureBoxChamp3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp3.TabIndex = 13;
-            this.pictureBoxChamp3.TabStop = false;
-            // 
-            // pictureBoxChamp3Spell1
-            // 
-            this.pictureBoxChamp3Spell1.Location = new System.Drawing.Point(92, 24);
-            this.pictureBoxChamp3Spell1.Name = "pictureBoxChamp3Spell1";
-            this.pictureBoxChamp3Spell1.Size = new System.Drawing.Size(35, 35);
-            this.pictureBoxChamp3Spell1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp3Spell1.TabIndex = 20;
-            this.pictureBoxChamp3Spell1.TabStop = false;
-            // 
-            // pictureBoxChamp3Spell2
-            // 
-            this.pictureBoxChamp3Spell2.Location = new System.Drawing.Point(92, 69);
-            this.pictureBoxChamp3Spell2.Name = "pictureBoxChamp3Spell2";
-            this.pictureBoxChamp3Spell2.Size = new System.Drawing.Size(35, 35);
-            this.pictureBoxChamp3Spell2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp3Spell2.TabIndex = 21;
-            this.pictureBoxChamp3Spell2.TabStop = false;
-            // 
-            // pictureBoxChamp3Rank
-            // 
-            this.pictureBoxChamp3Rank.Location = new System.Drawing.Point(133, 24);
-            this.pictureBoxChamp3Rank.Name = "pictureBoxChamp3Rank";
-            this.pictureBoxChamp3Rank.Size = new System.Drawing.Size(60, 80);
-            this.pictureBoxChamp3Rank.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp3Rank.TabIndex = 33;
-            this.pictureBoxChamp3Rank.TabStop = false;
-            this.pictureBoxChamp3Rank.MouseHover += new System.EventHandler(this.pictureBoxChamp3Rank_MouseHover);
-            // 
-            // pictureBoxChamp2Streak
-            // 
-            this.pictureBoxChamp2Streak.Location = new System.Drawing.Point(417, 87);
-            this.pictureBoxChamp2Streak.Name = "pictureBoxChamp2Streak";
-            this.pictureBoxChamp2Streak.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxChamp2Streak.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp2Streak.TabIndex = 52;
-            this.pictureBoxChamp2Streak.TabStop = false;
-            // 
-            // pictureBoxChamp2Veteran
-            // 
-            this.pictureBoxChamp2Veteran.Location = new System.Drawing.Point(417, 67);
-            this.pictureBoxChamp2Veteran.Name = "pictureBoxChamp2Veteran";
-            this.pictureBoxChamp2Veteran.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxChamp2Veteran.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp2Veteran.TabIndex = 51;
-            this.pictureBoxChamp2Veteran.TabStop = false;
-            // 
-            // pictureBoxChamp2Recruit
-            // 
-            this.pictureBoxChamp2Recruit.Location = new System.Drawing.Point(417, 47);
-            this.pictureBoxChamp2Recruit.Name = "pictureBoxChamp2Recruit";
-            this.pictureBoxChamp2Recruit.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxChamp2Recruit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp2Recruit.TabIndex = 49;
-            this.pictureBoxChamp2Recruit.TabStop = false;
-            // 
-            // pictureBoxChamp2
-            // 
-            this.pictureBoxChamp2.Location = new System.Drawing.Point(6, 24);
-            this.pictureBoxChamp2.Name = "pictureBoxChamp2";
-            this.pictureBoxChamp2.Size = new System.Drawing.Size(80, 80);
-            this.pictureBoxChamp2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp2.TabIndex = 12;
-            this.pictureBoxChamp2.TabStop = false;
-            // 
-            // pictureBoxChamp2Spell2
-            // 
-            this.pictureBoxChamp2Spell2.Location = new System.Drawing.Point(92, 69);
-            this.pictureBoxChamp2Spell2.Name = "pictureBoxChamp2Spell2";
-            this.pictureBoxChamp2Spell2.Size = new System.Drawing.Size(35, 35);
-            this.pictureBoxChamp2Spell2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp2Spell2.TabIndex = 19;
-            this.pictureBoxChamp2Spell2.TabStop = false;
-            // 
-            // pictureBoxChamp2Spell1
-            // 
-            this.pictureBoxChamp2Spell1.Location = new System.Drawing.Point(92, 24);
-            this.pictureBoxChamp2Spell1.Name = "pictureBoxChamp2Spell1";
-            this.pictureBoxChamp2Spell1.Size = new System.Drawing.Size(35, 35);
-            this.pictureBoxChamp2Spell1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp2Spell1.TabIndex = 18;
-            this.pictureBoxChamp2Spell1.TabStop = false;
-            // 
-            // pictureBoxChamp2Rank
-            // 
-            this.pictureBoxChamp2Rank.Location = new System.Drawing.Point(133, 24);
-            this.pictureBoxChamp2Rank.Name = "pictureBoxChamp2Rank";
-            this.pictureBoxChamp2Rank.Size = new System.Drawing.Size(60, 80);
-            this.pictureBoxChamp2Rank.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp2Rank.TabIndex = 32;
-            this.pictureBoxChamp2Rank.TabStop = false;
-            this.pictureBoxChamp2Rank.MouseHover += new System.EventHandler(this.pictureBoxChamp2Rank_MouseHover);
-            // 
-            // pictureBoxChamp1Streak
-            // 
-            this.pictureBoxChamp1Streak.Location = new System.Drawing.Point(417, 81);
-            this.pictureBoxChamp1Streak.Name = "pictureBoxChamp1Streak";
-            this.pictureBoxChamp1Streak.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxChamp1Streak.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp1Streak.TabIndex = 50;
-            this.pictureBoxChamp1Streak.TabStop = false;
-            // 
-            // pictureBoxChamp1Veteran
-            // 
-            this.pictureBoxChamp1Veteran.Location = new System.Drawing.Point(417, 61);
-            this.pictureBoxChamp1Veteran.Name = "pictureBoxChamp1Veteran";
-            this.pictureBoxChamp1Veteran.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxChamp1Veteran.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp1Veteran.TabIndex = 49;
-            this.pictureBoxChamp1Veteran.TabStop = false;
-            // 
-            // pictureBoxChamp1Recruit
-            // 
-            this.pictureBoxChamp1Recruit.Location = new System.Drawing.Point(417, 42);
-            this.pictureBoxChamp1Recruit.Name = "pictureBoxChamp1Recruit";
-            this.pictureBoxChamp1Recruit.Size = new System.Drawing.Size(16, 16);
-            this.pictureBoxChamp1Recruit.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp1Recruit.TabIndex = 48;
-            this.pictureBoxChamp1Recruit.TabStop = false;
-            // 
-            // pictureBoxChamp1
-            // 
-            this.pictureBoxChamp1.Location = new System.Drawing.Point(6, 24);
-            this.pictureBoxChamp1.Name = "pictureBoxChamp1";
-            this.pictureBoxChamp1.Size = new System.Drawing.Size(80, 80);
-            this.pictureBoxChamp1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp1.TabIndex = 11;
-            this.pictureBoxChamp1.TabStop = false;
-            // 
-            // pictureBoxChamp1Spell1
-            // 
-            this.pictureBoxChamp1Spell1.Location = new System.Drawing.Point(91, 24);
-            this.pictureBoxChamp1Spell1.Name = "pictureBoxChamp1Spell1";
-            this.pictureBoxChamp1Spell1.Size = new System.Drawing.Size(35, 35);
-            this.pictureBoxChamp1Spell1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp1Spell1.TabIndex = 16;
-            this.pictureBoxChamp1Spell1.TabStop = false;
-            // 
-            // pictureBoxChamp1Spell2
-            // 
-            this.pictureBoxChamp1Spell2.Location = new System.Drawing.Point(92, 69);
-            this.pictureBoxChamp1Spell2.Name = "pictureBoxChamp1Spell2";
-            this.pictureBoxChamp1Spell2.Size = new System.Drawing.Size(35, 35);
-            this.pictureBoxChamp1Spell2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp1Spell2.TabIndex = 17;
-            this.pictureBoxChamp1Spell2.TabStop = false;
-            // 
-            // pictureBoxChamp1Rank
-            // 
-            this.pictureBoxChamp1Rank.Location = new System.Drawing.Point(133, 24);
-            this.pictureBoxChamp1Rank.Name = "pictureBoxChamp1Rank";
-            this.pictureBoxChamp1Rank.Size = new System.Drawing.Size(60, 80);
-            this.pictureBoxChamp1Rank.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxChamp1Rank.TabIndex = 31;
-            this.pictureBoxChamp1Rank.TabStop = false;
-            this.pictureBoxChamp1Rank.MouseHover += new System.EventHandler(this.pictureBoxChamp1Rank_MouseHover);
+            this.pictureBoxLoading.Image = global::League1.Properties.Resources.Loading;
+            this.pictureBoxLoading.Location = new System.Drawing.Point(420, 93);
+            this.pictureBoxLoading.Name = "pictureBoxLoading";
+            this.pictureBoxLoading.Size = new System.Drawing.Size(40, 40);
+            this.pictureBoxLoading.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxLoading.TabIndex = 42;
+            this.pictureBoxLoading.TabStop = false;
             // 
             // Form1
             // 
@@ -1587,43 +1588,6 @@
             this.Text = "LeagueStats";
             this.groupBoxEnemyPlayer1.ResumeLayout(false);
             this.groupBoxEnemyPlayer1.PerformLayout();
-            this.groupBoxEnemyPlayer2.ResumeLayout(false);
-            this.groupBoxEnemyPlayer2.PerformLayout();
-            this.groupBoxEnemyPlayer3.ResumeLayout(false);
-            this.groupBoxEnemyPlayer3.PerformLayout();
-            this.groupBoxEnemyPlayer4.ResumeLayout(false);
-            this.groupBoxEnemyPlayer4.PerformLayout();
-            this.groupBoxEnemyPlayer5.ResumeLayout(false);
-            this.groupBoxEnemyPlayer5.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLoading)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Streak)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Veteran)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Recruit)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Spell1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Spell2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Rank)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Streak)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Veteran)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Recruit)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Spell2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Spell1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Rank)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Streak)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Veteran)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Recruit)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Spell1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Spell2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Rank)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Streak)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Veteran)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Recruit)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Spell2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Spell1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Rank)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp1Streak)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp1Veteran)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp1Recruit)).EndInit();
@@ -1631,6 +1595,43 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp1Spell1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp1Spell2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp1Rank)).EndInit();
+            this.groupBoxEnemyPlayer2.ResumeLayout(false);
+            this.groupBoxEnemyPlayer2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Streak)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Veteran)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Recruit)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Spell2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Spell1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp2Rank)).EndInit();
+            this.groupBoxEnemyPlayer3.ResumeLayout(false);
+            this.groupBoxEnemyPlayer3.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Streak)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Veteran)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Recruit)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Spell1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Spell2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp3Rank)).EndInit();
+            this.groupBoxEnemyPlayer4.ResumeLayout(false);
+            this.groupBoxEnemyPlayer4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Streak)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Veteran)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Recruit)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Spell2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Spell1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp4Rank)).EndInit();
+            this.groupBoxEnemyPlayer5.ResumeLayout(false);
+            this.groupBoxEnemyPlayer5.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Streak)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Veteran)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Recruit)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Spell1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Spell2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxChamp5Rank)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxLoading)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 

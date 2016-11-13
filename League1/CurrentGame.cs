@@ -47,7 +47,7 @@ namespace League1
 
     public class CurrentGame
     {
-        public int GameId { get; set; }
+        public double GameId { get; set; }
         public int MapId { get; set; }
         public string GameMode { get; set; }
         public string GameType { get; set; }

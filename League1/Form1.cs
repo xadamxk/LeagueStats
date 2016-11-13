@@ -11,8 +11,8 @@ using System.Text.RegularExpressions;
 // 2. Auto grab usernames: C:\Riot Games\League of Legends\RADS\projects\lol_air_client\releases\0.0.1.187\deploy\preferences
     // or save as text file
 // 3. Save dev key as text file
-// 4. Hide all panels, shrink window, after data is filled, show panels according to enemy count & grow window size.
-// 5. Add "Team" & "Enemy" buttons instead of search.
+// DONE. Hide all panels, shrink window, after data is filled, show panels according to enemy count & grow window size.
+// DONE. Add "Team" & "Enemy" buttons instead of search.
 // 6. Load new window on champion name click or open their champion.gg page
 // 7. add other spells (http://leagueoflegends.wikia.com/wiki/Spells)
 // BUG

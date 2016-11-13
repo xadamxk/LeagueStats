@@ -13,3 +13,13 @@ C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\obj\Debug\Le
 C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\obj\Debug\League1.exe
 C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\obj\Debug\League1.pdb
 C:\Users\Adam\documents\visual studio 2013\Projects\League1\League1\obj\Debug\LeagueStats.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\League1\League1\bin\Debug\System.Web.Helpers.dll
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\League1\League1\bin\Debug\System.Web.WebPages.dll
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\League1\League1\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\League1\League1\bin\Debug\System.Web.Razor.dll
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\League1\League1\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\League1\League1\bin\Debug\System.Web.Helpers.xml
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\League1\League1\bin\Debug\System.Web.WebPages.xml
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\League1\League1\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\League1\League1\bin\Debug\System.Web.Razor.xml
+C:\Users\Adam\Documents\Visual Studio 2013\Projects\League1\League1\bin\Debug\System.Web.WebPages.Deployment.xml
