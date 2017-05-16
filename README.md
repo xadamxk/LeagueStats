@@ -5,7 +5,7 @@ Get live summoner stats for League of Legends games.
 <hr><p align="Center">
 <b>Note: This program <i>was</i> complete - until v1 of the Riot API was killed.</b>
 <br>
-<b>If the old endpoints are opened, this will work, but until then, it no longer works.</b></p>
+<b>If the old endpoints are opened, this will work, until then it no longer works.</b></p>
 <hr>
 
 <p align="center">
